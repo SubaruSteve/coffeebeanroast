@@ -100,3 +100,16 @@ footer {
     top: 177px;
     z-index: 0;
 }
+
+#Comments{
+    align-items: center;
+}
+
+#tdtbltitle{
+    width: 80%;
+}
+
+#tdtblcontrols{
+    width: 20%;
+    horiz-align: left;
+}
